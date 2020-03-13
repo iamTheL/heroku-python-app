@@ -1,1 +1,1 @@
-worker : python hello-world.py
+clock : python hello-world.py
