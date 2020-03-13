@@ -2,6 +2,8 @@ import schedule
 import logging
 import sys
 
+print('I am deployed')
+
 def print_hello_world():
   logging.debug('I am debug')
   print('Hello World')
