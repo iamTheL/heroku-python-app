@@ -3,6 +3,9 @@ import logging
 import sys
 
 print('I am deployed')
+logging.error('I am error')
+loggint.debug('I am debug')
+
 
 def print_hello_world():
   logging.debug('I am debug')
